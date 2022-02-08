@@ -1,3 +1,3 @@
 # calculadora-js
 
-#Calculadora feita com HTML e Javascript e estilizada com CSS.
+Criada para fazer operações matemáticas simples: adição, subtração, multiplicação e divisão.
